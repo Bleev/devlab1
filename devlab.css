@@ -52,6 +52,7 @@
 .full {
     color: white;
     display: inline;
+    font-size: 30px;
 }
 #back {
     background-size: 5px 5px;
@@ -59,4 +60,10 @@
 #face {
     height: 300px;
     width: 200px;
+}
+#dallaspic{
+    display: flex;
+    justify-content: center;
+    height: 600px;
+    width:1200px;
 }
