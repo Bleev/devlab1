@@ -25,10 +25,12 @@
 #firstname {
     color: blue;
     font-family: 'Lobster', cursive;
+    font-size: 100px;
 }
 #lastname {
     font-family: 'Lobster', cursive;
     color: red;
+    font-size: 100px;
 }
 #rowaboutme {
   
