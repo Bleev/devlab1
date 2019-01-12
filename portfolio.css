@@ -1,0 +1,9 @@
+img {
+    height: 225px;
+    width: 350px
+}
+.spacing {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
