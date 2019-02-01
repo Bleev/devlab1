@@ -1,0 +1,69 @@
+.rowmid {
+    display: flex;
+    justify-content: space-around;
+}
+.rowaboutme {
+    display: flex;
+    justify-content: space-between;
+    background-color: pink;
+}
+.headshot{
+    width:50%;
+   
+}
+.mid{
+    background-color:aqua;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:10px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;   
+}
+#firstname {
+    color: blue;
+    font-family: 'Lobster', cursive;
+    font-size: 100px;
+}
+#lastname {
+    font-family: 'Lobster', cursive;
+    color: red;
+    font-size: 100px;
+}
+#rowaboutme {
+  
+    background-color: red;
+    color:white;
+    font-size:20px;
+}
+#dallas {
+    color: purple;
+    font-family: 'Indie Flower', cursive;
+    background-color: pink;
+    font-size: 25px;
+}
+.list {
+    font-family: 'Indie Flower', cursive;
+    background-color: red;
+    font-size: 30px;
+}
+.full {
+    color: white;
+    display: inline;
+    font-size: 30px;
+}
+#back {
+    background-size: 5px 5px;
+}
+#face {
+    height: 300px;
+    width: 200px;
+}
+#dallaspic{
+    display: flex;
+    justify-content: center;
+    height: 600px;
+    width:1200px;
+}
